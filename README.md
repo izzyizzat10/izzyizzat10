@@ -48,15 +48,6 @@ I’m a Software Engineer focused on building modern full-stack applications usi
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=izzyizzat10&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzyizzat10&theme=react" height="165" />
-</p>
-
----
-
 ## 📈 GitHub Activity Status
 
 <!-- Activity Graph -->
